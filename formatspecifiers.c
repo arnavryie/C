@@ -9,7 +9,7 @@ int main()  {
     float price = 45.99;
     double pi = 3.141592653589793;
     char currency = '$';
-    char name[] = "kratos"; 
+    char name[] = "sneha"; 
     int age = 22;
 
     printf("%d\n", age); // %d for int
